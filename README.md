@@ -1,4 +1,4 @@
-<div align='center'><img src='https://static.vecteezy.com/system/resources/previews/000/595/983/original/vector-object-and-icons-for-sport-label-gym-badge-fitness-logo-design.jpg' width="99" height="103"/></div>
+<div align='center'><img src='https://thumbs.dreamstime.com/b/white-dumbbell-gym-logo-black-background-workout-sign-vector-template-172909186.jpg' width="99" height="103"/></div>
 
 <h2>About the project</h2>
 

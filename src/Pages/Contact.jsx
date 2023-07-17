@@ -1,6 +1,6 @@
 import Footer from "../components/Footer/Footer";
 
-function Login() {
+function Contact() {
   return (
     <>
       <section>
@@ -17,7 +17,7 @@ function Login() {
               We are here for help you! To Shape Your Body.
             </h2>
             <p className="text-[16px] w-[95%] text-[#646464] font-medium my-[40px]">
-              At BeFitt- Gym, we are dedicated to helping you achieve the body of
+              At Gymate, we are dedicated to helping you achieve the body of
               your dreams. Our expert trainers and nutritionists will work with
               you to create a personalized fitness and nutrition plan that helps
               you reach your specific goals.
@@ -119,4 +119,4 @@ function Login() {
   );
 }
 
-export default Login;
+export default Contact;

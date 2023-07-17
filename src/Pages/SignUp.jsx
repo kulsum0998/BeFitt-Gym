@@ -3,7 +3,7 @@ import { UserAuth } from "../context/AuthContext";
 import { Link, useNavigate } from "react-router-dom";
 import Footer from "../components/Footer/Footer";
 
-function Signup() {
+function SignUp() {
   const [email, setEmail] = useState("");
   const [password, setPassword] = useState("");
   const { user, signUp } = UserAuth();
@@ -45,7 +45,7 @@ function Signup() {
             </label>
             <input
               className="text-[1.7rem] px-8 py-4 mb-10 w-full outline-[#ff0336] "
-              placeholder="befitt@gymail.com"
+              placeholder="gymate@gymail.com"
               type="email"
               onChange={(e) => setEmail(e.target.value)}
             ></input>
@@ -88,4 +88,4 @@ function Signup() {
   );
 }
 
-export default Signup;
+export default SignUp;
